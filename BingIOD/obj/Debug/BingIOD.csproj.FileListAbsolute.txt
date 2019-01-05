@@ -1,0 +1,9 @@
+C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\bin\Debug\BingIOD.exe.config
+C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\bin\Debug\BingIOD.exe
+C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\bin\Debug\BingIOD.pdb
+C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\obj\Debug\BingIOD.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\obj\Debug\BingIOD.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\obj\Debug\BingIOD.exe
+C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\obj\Debug\BingIOD.pdb
