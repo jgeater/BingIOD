@@ -7,3 +7,13 @@ C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\obj\Debug\BingIOD.csprojResolve
 C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\obj\Debug\BingIOD.csproj.CoreCompileInputs.cache
 C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\obj\Debug\BingIOD.exe
 C:\Users\James\Downloads\BingIOD\BingIOD\BingIOD\obj\Debug\BingIOD.pdb
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Debug\BingIOD.exe.config
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Debug\BingIOD.exe
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Debug\BingIOD.pdb
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Debug\BingIOD.csproj.CoreCompileInputs.cache
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Debug\BingIOD.csproj.CopyComplete
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Debug\BingIOD.exe
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Debug\BingIOD.pdb

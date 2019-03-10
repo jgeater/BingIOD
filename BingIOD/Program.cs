@@ -49,7 +49,10 @@ namespace BingIOD
 
                     //now pull the file name out of the URL
                     String fileName = Path.GetFileName(s3);
-                    Console.WriteLine(fileName);
+                    fileName= fileName.Substring(fileName.IndexOf('.') + 1);
+                    int index = fileName.IndexOf("&");
+                    fileName =fileName.Substring(0, index);
+                    Console.WriteLine("Filename = "+fileName);
                     
                     //the URL is now stored in s3 do I need to download it
                     Console.WriteLine("Downloading the file {0}", fileName);
@@ -65,6 +68,7 @@ namespace BingIOD
                     catch (Exception)
                     {
                         Console.WriteLine("Error Downloading File");
+                        //Console.ReadKey();
 
                     }
 
