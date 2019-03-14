@@ -61,7 +61,7 @@ namespace BingIOD
                     string s3 = s1.Replace(":", "");
                     s3 = s3.Replace("url", "https://bing.com");
                     s3 = s3.Replace("\"", "");
-                    Console.WriteLine(s3);
+                    //Console.WriteLine(s3);
 
                     //now pull the file name out of the URL
                     String fileName = Path.GetFileName(s3);
@@ -75,20 +75,22 @@ namespace BingIOD
                     try
                     {
                         string DlDir = Environment.GetFolderPath(Environment.SpecialFolder.MyPictures);
-                        Console.WriteLine(DlDir);
+                        //Console.WriteLine(DlDir);
                         WebClient webClient = new WebClient();
                         string DLfile = DlDir + @"\" + fileName;
+                        if (File.Exists(DLfile))
+                        {
+                            Console.WriteLine("File already exists!");
+                            Thread.Sleep(1000);
+                        }
+
                         if (!File.Exists(DLfile))
                         {
                             webClient.DownloadFile(s3, DlDir + @"\" + fileName);
                             Console.WriteLine("Download Completed");
                             Thread.Sleep(2000);
                         }
-                        if (File.Exists(DLfile))
-                        {
-                            Console.WriteLine("File already exists!");
-                            Thread.Sleep(1000);
-                        }
+                   
 
                     }
                     catch (Exception ex)
