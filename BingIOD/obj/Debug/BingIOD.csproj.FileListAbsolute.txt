@@ -17,3 +17,4 @@ C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Debug\BingIOD.csproj.CoreCompile
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Debug\BingIOD.csproj.CopyComplete
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Debug\BingIOD.exe
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Debug\BingIOD.pdb
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Debug\BingIOD.csprojAssemblyReference.cache

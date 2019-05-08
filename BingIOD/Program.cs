@@ -46,6 +46,12 @@ namespace BingIOD
             HttpResponseMessage response = await client.GetAsync(new Uri(strBingImageURL));
             strJSONString = await response.Content.ReadAsStringAsync();
 
+            ////write the json file for debugging
+            //using (StreamWriter w = File.AppendText("c:\\temp\\BingIODJSON.log"))
+            //{
+            //    Log(strJSONString, w);
+            //}
+
             //Split strJSONString on ,
             char[] delimiterChars = { ',' };
             string[] imgs = strJSONString.Split(delimiterChars);
@@ -97,7 +103,7 @@ namespace BingIOD
                     {
                         Console.WriteLine("Error Downloading File");
                         string DefaultLogFilePath = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
-                        using (StreamWriter w = File.AppendText(DefaultLogFilePath + "BingIOD_RR.log"))
+                        using (StreamWriter w = File.AppendText(DefaultLogFilePath + "\\BingIOD.log"))
                         {
                             Log("Error downloading file: " + fileName, w);
                             Log("URL: " + s3, w);
