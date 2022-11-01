@@ -10,9 +10,10 @@ C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Release\BingIOD.exe.config
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Release\BingIOD.exe
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Release\BingIOD.pdb
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Release\System.Net.Http.Formatting.dll
-C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Release\Newtonsoft.Json.dll
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\bin\Release\System.Net.Http.Formatting.xml
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Release\BingIOD.csproj.CoreCompileInputs.cache
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Release\BingIOD.csproj.CopyComplete
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Release\BingIOD.exe
 C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Release\BingIOD.pdb
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Release\BingIOD.csproj.AssemblyReference.cache
+C:\Users\jgeat\source\repos\BingIOD\BingIOD\obj\Release\BingIOD.csproj.SuggestedBindingRedirects.cache
